@@ -52,7 +52,8 @@ This project explores the visual translation of audio features into artistic vis
 
 These mappings enhance musical perception through motion and color, amplifying the emotional and rhythmic qualities of EDM music.
 
-🎧 Audio Credits
+🎧 Audio Credits:
+
 Track: Kalte Ohren (Remix)
 
 #### 🔥 Inspired by rave culture & visual performance art.
